@@ -1,0 +1,17 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: Arial;
+}
+
+.container {
+    margin-top: 50px;
+    display: inline-block;
+}
+
+#output {
+    max-width: 100vw;
+    word-wrap: break-word;
+    font-size: 5px;
+}
